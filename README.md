@@ -4,20 +4,15 @@
 
 
 - 🔭 I’m currently working on **Real-Time Emergency Vehicle Siren Detection Using Machine Learning with a CBC**
-- 
-
+  
 - 🌱 I’m currently learning **TensorFlow, OpenCV and ow to use AI tools for web development**
-- 
-
+  
 - 👯 I’m looking to collaborate on **web/ mobile application dev**
-- 
-
+  
 - 📫 How to reach me **chamathwijesekara98@gmail.com**
-- 
-
+  
 - ⚡ My profile **www.linkedin.com/in/chamathsathsara-a6502a313**
 
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
