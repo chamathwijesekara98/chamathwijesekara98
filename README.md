@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Real-Time Emergency Vehicle Siren Detection Using Machine Learning with a CBC**
   
-- 🌱 I’m currently learning **TensorFlow, OpenCV and ow to use AI tools for web development**
+- 🌱 I’m currently learning **TensorFlow, OpenCV and Machine Learning, sharping my web dev skills**
   
 - 👯 I’m looking to collaborate on **web/ mobile application dev**
   
